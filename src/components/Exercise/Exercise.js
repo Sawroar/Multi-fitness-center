@@ -1,10 +1,10 @@
 import React from 'react';
 
-const Exercise = () => {
+const Exercise = (props) => {
+    const { name, img, info, age, time } = props.exercise
     return (
         <div>
-            <h1>how are you</h1>
-            <h1>how are you</h1>
+            <img src={img} alt="" />
         </div>
     );
 };

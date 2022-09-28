@@ -1,7 +1,7 @@
 [
     {
         "id": "1",
-        "img": "./images/chainup.webp",
+        "img": "./images/warmup.avif",
         "name": "Warm up",
         "info": "warm up can be different things and",
         "age": "20-25",
@@ -10,39 +10,39 @@
     {
         "id": "2",
         "img": "./images/chainup.webp",
-        "name": "Warm up",
+        "name": "Chain up",
         "info": "warm up can be different things and",
         "age": "20-25",
         "time": "30s"
     },
     {
         "id": "3",
-        "img": "./images/chainup.webp",
-        "name": "Warm up",
+        "img": "./images/parallel-bar.jpg",
+        "name": "Parallel Bar",
         "info": "warm up can be different things and",
         "age": "20-25",
         "time": "30s"
     },
     {
         "id": "4",
-        "img": "./images/chainup.webp",
-        "name": "Warm up",
+        "img": "./images//pushups.avif",
+        "name": "Push ups",
         "info": "warm up can be different things and",
         "age": "20-25",
         "time": "30s"
     },
     {
         "id": "5",
-        "img": "./images/chainup.webp",
-        "name": "Warm up",
+        "img": "./images/low-row.jpg",
+        "name": "Low Row",
         "info": "warm up can be different things and",
         "age": "20-25",
         "time": "30s"
     },
     {
         "id": "6",
-        "img": "./images/chainup.webp",
-        "name": "Warm up",
+        "img": "./images/sit-up.jpg",
+        "name": "Sit Ups",
         "info": "warm up can be different things and",
         "age": "20-25",
         "time": "30s"
