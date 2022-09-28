@@ -5,7 +5,7 @@
         "name": "Warm up",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "30"
     },
     {
         "id": "2",
@@ -13,7 +13,7 @@
         "name": "Chain up",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "40"
     },
     {
         "id": "3",
@@ -21,7 +21,7 @@
         "name": "Parallel Bar",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "50"
     },
     {
         "id": "4",
@@ -29,7 +29,7 @@
         "name": "Push ups",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "60s"
     },
     {
         "id": "5",
@@ -37,7 +37,7 @@
         "name": "Low Row",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "30"
     },
     {
         "id": "6",
@@ -45,6 +45,6 @@
         "name": "Sit Ups",
         "info": "warm up can be different things and",
         "age": "20-25",
-        "time": "30s"
+        "time": "60"
     }
 ]
