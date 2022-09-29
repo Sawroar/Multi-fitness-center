@@ -3,7 +3,7 @@
         "id": "1",
         "image": "./images/warmup.avif",
         "name": "Warm up",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "30"
     },
@@ -11,7 +11,7 @@
         "id": "2",
         "image": "./images/chainup.webp",
         "name": "Chain up",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "40"
     },
@@ -19,7 +19,7 @@
         "id": "3",
         "image": "./images/parallel-bar.jpg",
         "name": "Parallel Bar",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "50"
     },
@@ -27,7 +27,7 @@
         "id": "4",
         "image": "./images/pushups.jpg",
         "name": "Push ups",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "60s"
     },
@@ -35,7 +35,7 @@
         "id": "5",
         "image": "./images/low-row.jpg",
         "name": "Low Row",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "30"
     },
@@ -43,7 +43,7 @@
         "id": "6",
         "image": "./images/sit-up.jpg",
         "name": "Sit Ups",
-        "info": "warm up can be different things and",
+        "info": " can make difference In You Life",
         "age": "20-25",
         "time": "60"
     }

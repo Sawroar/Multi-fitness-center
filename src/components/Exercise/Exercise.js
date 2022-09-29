@@ -16,7 +16,7 @@ const Exercise = (props) => {
                         <img src={image} className="card-img-top img-fluid" alt="..." />
                         <div className="card-body">
                             <h5 className="card-title">{name}</h5>
-                            <p className="card-text">{info}</p>
+                            <p className="card-text">{name}{info}</p>
                             <h5>For Age:{age}</h5>
                             <h5>Time Required:{time}s</h5>
                             <button className='btn btn-primary w-100' onClick={() => handleClick(props.exercise)}>Add to list</button>
