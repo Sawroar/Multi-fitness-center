@@ -1,5 +1,5 @@
 import React from 'react';
-import Modal from '../Modal/Modal';
+
 
 const Exercisedetails = (props) => {
     const { breakTime } = props
@@ -49,7 +49,7 @@ const Exercisedetails = (props) => {
 
 
 
-            <Modal></Modal>
+
 
         </div>
     );

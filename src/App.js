@@ -6,7 +6,7 @@ import Header from './components/Header/Header';
 
 function App() {
   return (
-    <div className='bg-dark bg-opacity-10 p-2'>
+    <div className='bg-dark bg-opacity-10 p-4build'>
       <Header></Header>
       <Gym></Gym>
 
